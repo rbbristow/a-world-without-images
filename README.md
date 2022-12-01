@@ -1,1 +1,1 @@
-# a-world-without-images
+# A World without Images
